@@ -1,4 +1,4 @@
-# # 🚌 Bus Ticket Booking System
+# # 🚌 Bus Ticket Booking System.
 
 A console-based bus ticket booking application developed in C programming language that implements a comprehensive discount system based on user demographics.
 
